@@ -1,4 +1,17 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #001e54;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  margin: 0px;
+}
+
+img{
+  height: 100vh;
+  width: auto;
 }
